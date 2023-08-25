@@ -22,8 +22,9 @@ h1 {
 .font-dancing {
     font-family: 'Dancing Script', Courier, monospace;
     font-weight: bolder;
-    font-size: 20px;
+    font-size: 10px;
 }
 .font-rubik {
     font-family: Rubik;
+    font-family: 'Times New Roman', Times, serif;
 }
