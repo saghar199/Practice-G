@@ -12,7 +12,7 @@ h1 {
     font-family:"Edu";
     src: url(../Edu/EduSABeginner-VariableFont_wght.ttf);
 }
-.sub{
+.main{
     font-family: 'Edu', Courier, monospace;
     font-size: medium;
 }
