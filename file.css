@@ -1,0 +1,29 @@
+@font-face {
+    font-family:"Borel";
+    src: url(../Borel/Borel-Regular.ttf);
+}
+.font-borel {
+    font-family: 'Borel', Courier, monospace;
+}
+h1 {
+    font-family: 'Edu';
+}
+@font-face {
+    font-family:"Edu";
+    src: url(../Edu/EduSABeginner-VariableFont_wght.ttf);
+}
+.Main{
+    font-family: 'Edu', Courier, monospace;
+    font-size: large;
+}
+.font-oswald {
+    font-family: Oswald;
+}
+.font-dancing {
+    font-family: 'Dancing Script', Courier, monospace;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.font-rubik {
+    font-family: Rubik;
+}
