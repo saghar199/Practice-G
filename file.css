@@ -12,9 +12,9 @@ h1 {
     font-family:"Edu";
     src: url(../Edu/EduSABeginner-VariableFont_wght.ttf);
 }
-.Main{
+.sub{
     font-family: 'Edu', Courier, monospace;
-    font-size: large;
+    font-size: medium;
 }
 .font-oswald {
     font-family: Oswald;
